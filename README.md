@@ -1,4 +1,4 @@
-# ApnaAnaaj (Crop_Prediction)
+# Commodity Price Prediction App
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/ApnaAnaajLogo.png)](https://github.com/rahuldkjain/Crop_Prediction)
 
 ## Features
